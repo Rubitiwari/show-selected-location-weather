@@ -30,3 +30,27 @@ h2 {
 .showWeeklyWeather {
   visibility: hidden;
 }
+.rw-today {
+  display: flex;
+  border-bottom: 1px solid blanchedalmond;
+}
+
+.rw-day {
+  display: flex;
+  border-bottom: 1px solid blanchedalmond;
+}
+.rw-date {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+}
+.rw-desc{
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+}
+.rw-range {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+}
