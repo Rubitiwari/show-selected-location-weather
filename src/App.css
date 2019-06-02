@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+/*.sidebar{
+  display: flex;
+  width: 7%;
+  font-size: 1rem;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  height: 100vh;
+  background: aqua;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.active {
+  background-color: #CCCCCC;
+  width: 100%;
+}
+
+.appContainer {
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  width: 93%;
+  height: 100vh;
+}
+
+.weatherContainer {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  position: relative;
+  left: 1%;
+  width: 48%;
+  height: 100%;
+}
+
+.weatherDetailBox {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  height: 52%;
+  margin: 1rem 0rem 1rem 0rem;
+  border: solid 1px #CCCCCC;
+  border-radius: 1rem;
+}
+ul.cityList {
+  width: 100%;
+  position: relative;
+  left: 0%;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+ul li {
+  height: 6%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+li:hover {
+  cursor: pointer;
+  background-color:  #CCCCCC;
+}
+li:active {
+  height: 5%;
+  background-color: #0099FF;
+}
+
+ul.cityList {
+  width: 100%;
+  position: relative;
+  left: 0%;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+ul.cityList li {
+  margin-top: 1rem;
+  height: 24%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%
+}
+.cityName {
+  text-transform: capitalize;
+  color: black;
+  font-size: 1rem;
+  line-height: 30px;
+}
+.geoPath {
+  color: darkgray;
+  padding-right: 4rem;
+}
+
+.map {
+  display: flex;
+  flex-direction: row;
+}
+
+.result {
+  box-sizing: content-box;
+  margin: 0rem;
+  padding: 0rem;
+  position: sticky;
+  top: 90%;
+  left: 7%;
+  width: 90%;
+  height: 5rem;
+  border: solid 0.5rem #000000;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+*/
