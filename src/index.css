@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+h2 {
+  visibility: hidden;
+}
+
+.displayCityList {
+  display: flex;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-scrolling: auto;
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.rw-box {
+  margin-top: -2rem;
+}
+
+.showWeeklyWeather {
+  visibility: hidden;
+}
